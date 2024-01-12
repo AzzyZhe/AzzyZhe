@@ -1,23 +1,19 @@
-活动区域：bili || 贴吧 || Steam || luogu || 网易云 || QQ
+距离上次 github 主页一转眼已经过去三年，现在已是大二，难得因为这学期模电项目写了个安卓客户端的契机而重新用起了 github ，姑且也打算稍微写一点东西在这边的个人主页上。
 
-------------
-某偏远QJYZの 観測者 && OIer && 鸽子
+再一看 github 首页，过去的期待化作了回旋镖，狠狠打在了我的脸上。各种机缘巧合之下，最终在大学的专业也更偏航空航天方向而非我一直所执念的计算机。
 
-蒟蒻自学OIer 基本*AFO*
+目前来说大学生活可程内外也有了越来越多的项目安排，快要回到不输高中的忙碌了orz
+
+不过借这些机会大概也逐渐再次开始相关知识的学习了。
+
+未来吗，啊啊……多少有些迷茫——
+
+----
+前偏远QJYZ 现BUAA の 観測者 && 前OIer && 鸽子
+
+蒟蒻自学OIer 早已 *AFO* 开摆ing
 
 大佬们都在互相fAKe，只有在真正的蒟蒻在默默受伤
-
-友链的话......互关都算吧
-
-------------
-自己对CSP/NOIP2021的三点：
-[.](https://www.luogu.com.cn/blog/kokowaAZ0w0/attentions-list)
-[.](https://www.luogu.com.cn/blog/kokowaAZ0w0/errors-and-faults)
-[.](https://www.luogu.com.cn/blog/kokowaAZ0w0/review-list)
-
-[Mark](https://www.luogu.com.cn/blog/kokowaAZ0w0/post-mark)
-
-~~[QJYZ——OJ](http://218.63.200.3:9988/index.php)~~
 
 ------------
 [そして花になる](https://www.luogu.com.cn/paste/nkoscgk2)
@@ -124,21 +120,4 @@
 花譜ちゃん大好きです
 
 ----
-以上是从基本洛谷搬来的主页
 
-高三党，GitHub大概并不会很常用，有缘再见吧。（趴）
-
-总之以后是一定会走上代码这条路的-w-
-
-<!---
-- 👋 Hi, I’m @AzzyZhe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-
-<!---
-AzzyZhe/AzzyZhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
